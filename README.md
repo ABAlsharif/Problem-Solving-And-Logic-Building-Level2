@@ -1,38 +1,69 @@
-# 🚀 C++ Problem-Solving - Level 2 (Problems 1-5)
+<h1>🧩 C++ Problem Solving & Logic Building - Level 2</h1>
 
-Welcome to my repository dedicated to mastering logic and algorithmic thinking using **C++**! This repository tracks my progress through the second level of the problem-solving roadmap by **Prof. Mohammed Abu-Hadhoud**.
+<p>A repository dedicated to tracking my progress through the second level of algorithmic problem-solving. This stage focuses on transitioning from basic syntax to advanced arithmetic logic, functional programming, and deeper control flow optimization.</p>
 
-Here, you'll find solutions designed with optimized logic, highlighting the evolution of my code alongside standard solutions to ensure best practices.
-
----
-
-## 📌 Progress Dashboard
-
-| Problem No. | Problem Title | Status | Key Concept Covered |
-| :---: | :--- | :---: | :--- |
-| 1 | Multiplication Table From 1 To 10 | ✅ Completed | Nested Loops & Output Formatting |
-| 2 | Print All Prime Numbers from 1 to N | ✅ Completed | Functions, Number Theory & Loops |
-| 3 | Check if a Number is Perfect or Not | ✅ Completed | Divisors, Summation Logic & Booleans |
-| 4 | Print All Perfect Numbers from 1 to N | ✅ Completed | Reusable Functions & Nested Logic |
-| 5 | Read Number & Print it in Reversed Order | ✅ Completed | Modulo (`%`) & Integer Division (`/`) |
+<p><b>Approach:</b> Code efficiency, proper functional decomposition, and keeping clean code practices at the forefront.</p>
 
 ---
 
-## 💡 Key Coding Insights & Code Evolution
+<h2>📊 Solved Problems Index (01 - 05)</h2>
 
-During these initial problems, the focus was on moving from basic loops to modular programming and efficient digit manipulation.
-
-### 🧩 1. Digit Manipulation (The Power of `% 10` and `/ 10`)
-* **The Learning Curve (Problem 5):** Initially, I tried using arrays and `.length()` concepts on numbers, but quickly pivoted to the standard arithmetic approach. 
-* **The Solution:** Extracting digits using `Number % 10` and shrinking the number with `Number / 10` inside a `while (Number > 0)` loop proved to be elegant, fast, and light on memory.
-
-### ⚙️ 2. Structural Code Evolution
-* **Problem 3 vs. Problem 4:** In Problem 3, we analyzed how to detect a perfect number by summing its divisors. By Problem 4, we evolved the code to reuse that identical logic within a loop to scan all perfect numbers from 1 to N, demonstrating the true power of functional programming.
+<table>
+  <tr>
+    <th>#</th>
+    <th>Problem Title</th>
+    <th>Concepts Covered</th>
+    <th>Solution Link</th>
+  </tr>
+  <tr>
+    <td>01</td>
+    <td>Multiplication Table From 1 To 10</td>
+    <td>Nested Loops, Output Formatting, Text Alignment (\t)</td>
+    <td><a href="./Problem%2001.cpp">View Code</a></td>
+  </tr>
+  <tr>
+    <td>02</td>
+    <td>Print All Prime Numbers from 1 to N</td>
+    <td>Number Theory, Optimization via Math Functions, Reusable Logic</td>
+    <td><a href="./Problem%2002.cpp">View Code</a></td>
+  </tr>
+  <tr>
+    <td>03</td>
+    <td>Check if a Number is Perfect or Not</td>
+    <td>Divisors Summation, Boolean Predicates, Logic Validation</td>
+    <td><a href="./Problem%2003.cpp">View Code</a></td>
+  </tr>
+  <tr>
+    <td>04</td>
+    <td>Print All Perfect Numbers from 1 to N</td>
+    <td>Nested Logic, Function Reuse, Scale-Up Algorithms</td>
+    <td><a href="./Problem%2004.cpp">View Code</a></td>
+  </tr>
+  <tr>
+    <td>05</td>
+    <td>Read Number & Print it in Reversed Order</td>
+    <td>Digit Extraction, Modulo Arithmetic (%), Integer Division (/)</td>
+    <td><a href="./Problem%2005.cpp">View Code</a></td>
+  </tr>
+</table>
 
 ---
 
-## 🛠️ How to Run the Solutions
+<h2>💡 Logic Insights & Evolution</h2>
 
-1. Clone this repository:
-   ```bash
-   git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
+<h3>🔄 Digit Manipulation (Problem 05)</h3>
+<p>Moving away from handling numbers as pseudo-strings or arrays. Instead of searching for array properties, using pure mathematical operators proved to be faster and memory-optimized:</p>
+<ul>
+  <li><b>Extraction:</b> <code>Number % 10</code> pulls the last digit cleanly.</li>
+  <li><b>Reduction:</b> <code>Number / 10</code> shrinks the number down for the next iteration inside a <code>while (Number > 0)</code> loop.</li>
+</ul>
+
+<h3>⚙️ Structural Scaling (Problem 03 & 04)</h3>
+<p>The code evolves seamlessly between these two problems. Problem 3 sets the baseline logic to isolate a single "Perfect Number" via predicates. Problem 4 immediately scales this up by looping that identical predicate function from 1 to N, showing the structural advantage of modular architecture.</p>
+
+---
+
+<h2>🛠️ Tech & Tools</h2>
+<p>• <b>Language:</b> C++17 / C++20</p>
+<p>• <b>IDE:</b> Visual Studio</p>
+<p>• <b>Focus:</b> Algorithm Design, Modular Programming, Logic Reusability</p>
