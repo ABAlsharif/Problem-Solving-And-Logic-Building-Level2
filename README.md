@@ -19,13 +19,13 @@
     <td>01</td>
     <td>Multiplication Table From 1 To 10</td>
     <td>Nested Loops, Output Formatting, Text Alignment (\t)</td>
-    <td><a href="./Problem%2001.cpp">View Code</a></td>
+    <td><a href="./Problem%201.cpp">View Code</a></td>
   </tr>
   <tr>
     <td>02</td>
     <td>Print All Prime Numbers from 1 to N</td>
     <td>Number Theory, Optimization via Math Functions, Reusable Logic</td>
-    <td><a href="./Problem%2002.cpp">View Code</a></td>
+    <td><a href="./Problem%202.cpp">View Code</a></td>
   </tr>
 </table>
 
