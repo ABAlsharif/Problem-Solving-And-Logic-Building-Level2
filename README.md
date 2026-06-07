@@ -6,7 +6,7 @@
 
 ---
 
-<h2>📊 Solved Problems Index </h2>
+<h2>📊 Solved Problems Index</h2>
 
 <table>
   <tr>
@@ -27,12 +27,9 @@
     <td>Number Theory, Optimization via Math Functions, Reusable Logic</td>
     <td><a href="./Problem%2002.cpp">View Code</a></td>
   </tr>
-
 </table>
 
 ---
-
-
 
 <h2>🛠️ Tech & Tools</h2>
 <p>• <b>Language:</b> C++17 / C++20</p>
