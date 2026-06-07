@@ -6,7 +6,7 @@
 
 ---
 
-<h2>📊 Solved Problems Index (01 - 05)</h2>
+<h2>📊 Solved Problems Index </h2>
 
 <table>
   <tr>
