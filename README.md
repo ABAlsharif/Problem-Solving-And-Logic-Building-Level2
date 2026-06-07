@@ -49,19 +49,7 @@
 
 ---
 
-<h2>💡 Logic Insights & Evolution</h2>
 
-<h3>🔄 Digit Manipulation (Problem 05)</h3>
-<p>Moving away from handling numbers as pseudo-strings or arrays. Instead of searching for array properties, using pure mathematical operators proved to be faster and memory-optimized:</p>
-<ul>
-  <li><b>Extraction:</b> <code>Number % 10</code> pulls the last digit cleanly.</li>
-  <li><b>Reduction:</b> <code>Number / 10</code> shrinks the number down for the next iteration inside a <code>while (Number > 0)</code> loop.</li>
-</ul>
-
-<h3>⚙️ Structural Scaling (Problem 03 & 04)</h3>
-<p>The code evolves seamlessly between these two problems. Problem 3 sets the baseline logic to isolate a single "Perfect Number" via predicates. Problem 4 immediately scales this up by looping that identical predicate function from 1 to N, showing the structural advantage of modular architecture.</p>
-
----
 
 <h2>🛠️ Tech & Tools</h2>
 <p>• <b>Language:</b> C++17 / C++20</p>
