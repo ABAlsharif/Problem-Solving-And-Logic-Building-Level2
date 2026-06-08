@@ -27,6 +27,18 @@
     <td>Number Theory, Optimization via Math Functions, Reusable Logic</td>
     <td><a href="./Problem%202.cpp">View Code</a></td>
   </tr>
+  <tr>
+    <td>03</td>
+    <td>Check if a Number is Perfect or Not</td>
+    <td>Divisors Summation, Boolean Predicates, Logic Validation</td>
+    <td><a href="./Problem%203.cpp">View Code</a></td>
+  </tr>
+  <tr>
+    <td>04</td>
+    <td>Print All Perfect Numbers from 1 to N</td>
+    <td>Nested Logic, Function Reuse, Scale-Up Algorithms</td>
+    <td><a href="./Problem%204.cpp">View Code</a></td>
+  </tr>
 </table>
 
 ---
