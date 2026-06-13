@@ -57,6 +57,18 @@
     <td>Mathematical Number Reversal, Value Rebuilding, Overflow Preventions</td>
     <td><a href="./Problem%207.cpp">View Code</a></td>
   </tr>
+  <tr>
+    <td>08</td>
+    <td>Print Digit Frequency in a Given Number</td>
+    <td>Value Counting, Conditional Filtering, Digit Matching</td>
+    <td><a href="./Problem%208.cpp">View Code</a></td>
+  </tr>
+  <tr>
+    <td>09</td>
+    <td>Print All Digits Frequency in a Given Number</td>
+    <td>Frequency Tables, Function Reusability, Nested Loop Mapping</td>
+    <td><a href="./Problem%209.cpp">View Code</a></td>
+  </tr>
 </table>
 
 ---
