@@ -69,6 +69,12 @@
     <td>Frequency Tables, Function Reusability, Nested Loop Mapping</td>
     <td><a href="./Problem%209.cpp">View Code</a></td>
   </tr>
+  <tr>
+    <td>10</td>
+    <td>Read Number & Print it in Order (Left to Right)</td>
+    <td>Double Reversal Logic, Digit Streaming, Sequence Preservation</td>
+    <td><a href="./Problem%2010.cpp">View Code</a></td>
+  </tr>
 </table>
 
 ---
