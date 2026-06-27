@@ -19,7 +19,7 @@
     <td>01</td>
     <td>Multiplication Table From 1 To 10</td>
     <td>Nested Loops, Output Formatting, Text Alignment (\t)</td>
-    <td><a href="./Problem%2001.cpp">View Code</a></td>
+    <td><a href="./Problem%201.cpp">View Code</a></td>
   </tr>
   <tr>
     <td>02</td>
@@ -74,6 +74,18 @@
     <td>Read Number & Print it in Order (Left to Right)</td>
     <td>Double Reversal Logic, Digit Streaming, Sequence Preservation</td>
     <td><a href="./Problem%2010.cpp">View Code</a></td>
+  </tr>
+  <tr>
+    <td>11</td>
+    <td>Palindrome Number Checker</td>
+    <td>Mathematical Reversal, Boolean Evaluation, Digit Matching</td>
+    <td><a href="./Problem%2011.cpp">View Code</a></td>
+  </tr>
+  <tr>
+    <td>12</td>
+    <td>Inverted Number Pattern</td>
+    <td>Nested For Loops, Decrementing Control Flow, Pattern Formatting</td>
+    <td><a href="./Problem%2012.cpp">View Code</a></td>
   </tr>
 </table>
 
