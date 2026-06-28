@@ -37,7 +37,7 @@
     <td>04</td>
     <td>Print All Perfect Numbers from 1 to N</td>
     <td>Nested Logic, Function Reuse, Scale-Up Algorithms</td>
-    <td><a href="./Problem%204.cpp">View Code</a></td>
+    <td><a href="./Problem%2004.cpp">View Code</a></td>
   </tr>
   <tr>
     <td>05</td>
