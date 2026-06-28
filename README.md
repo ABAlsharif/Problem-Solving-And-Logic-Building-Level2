@@ -31,7 +31,7 @@
     <td>03</td>
     <td>Check if a Number is Perfect or Not</td>
     <td>Divisors Summation, Boolean Predicates, Logic Validation</td>
-    <td><a href="./Problem%203.cpp">View Code</a></td>
+    <td><a href="./Problem%2003.cpp">View Code</a></td>
   </tr>
   <tr>
     <td>04</td>
