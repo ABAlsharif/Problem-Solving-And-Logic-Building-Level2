@@ -55,7 +55,7 @@
     <td>07</td>
     <td>Read Number & Print it Reversed (As an Integer)</td>
     <td>Mathematical Number Reversal, Value Rebuilding, Overflow Preventions</td>
-    <td><a href="./Problem%207.cpp">View Code</a></td>
+    <td><a href="./Problem%2007.cpp">View Code</a></td>
   </tr>
   <tr>
     <td>08</td>
