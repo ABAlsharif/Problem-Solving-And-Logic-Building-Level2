@@ -49,7 +49,7 @@
     <td>06</td>
     <td>Read Number & Print the Sum of its Digits</td>
     <td>Digit Accumulation, Iterative Math, Arithmetic Logic</td>
-    <td><a href="./Problem%206.cpp">View Code</a></td>
+    <td><a href="./Problem%2006.cpp">View Code</a></td>
   </tr>
   <tr>
     <td>07</td>
