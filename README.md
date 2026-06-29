@@ -43,7 +43,7 @@
     <td>05</td>
     <td>Read Number & Print it in Reversed Order</td>
     <td>Digit Extraction, Modulo Arithmetic (%), Integer Division (/)</td>
-    <td><a href="./Problem%205.cpp">View Code</a></td>
+    <td><a href="./Problem%2005.cpp">View Code</a></td>
   </tr>
   <tr>
     <td>06</td>
