@@ -61,7 +61,7 @@
     <td>08</td>
     <td>Print Digit Frequency in a Given Number</td>
     <td>Value Counting, Conditional Filtering, Digit Matching</td>
-    <td><a href="./Problem%208.cpp">View Code</a></td>
+    <td><a href="./Problem%2008.cpp">View Code</a></td>
   </tr>
   <tr>
     <td>09</td>
