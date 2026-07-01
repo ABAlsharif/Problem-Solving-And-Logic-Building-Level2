@@ -67,7 +67,7 @@
     <td>09</td>
     <td>Print All Digits Frequency in a Given Number</td>
     <td>Frequency Tables, Function Reusability, Nested Loop Mapping</td>
-    <td><a href="./Problem%209.cpp">View Code</a></td>
+    <td><a href="./Problem%2009.cpp">View Code</a></td>
   </tr>
   <tr>
     <td>10</td>
